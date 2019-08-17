@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("추가입니다.");
 		System.out.println("추가입니다2.");
 		System.out.println("추가입니다3.");
+		System.out.println("추가입니다4.");
 	}
 
 }
